@@ -7,4 +7,4 @@ https://formsubmit.co/
 
 https://www.youtube.com/watch?v=r4RQ38EoLds
 
-A place to host a domain if you want something else than netlify.com
+A place to host a domain https://www.hostinger.com/ if you want something else than netlify.com
